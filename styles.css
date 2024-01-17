@@ -1,0 +1,31 @@
+body{background-color: red;
+font-size: 16px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  ;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.avatar{
+    width: 555px;
+border-radius: 44px;
+box-shadow: 4px 4px  44px ;
+}
+.ENDRIK{width: 300px;
+border-radius: 44px;
+box-shadow: 44px 44px 44px;
+}
+.GULER{
+width: 300px;
+border-radius: 44px;
+box-shadow: 44px 44px 44px;
+}
+.abos{
+width: 300px;
+border-radius: 44px;
+box-shadow: 44px 44px 44px;
+}
+.contact h2{ text-align:center ;}
+.rock h2{text-align: center;}
